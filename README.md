@@ -1,24 +1,20 @@
-# employee-management
+# Employee Management System
 
-## Project setup
-```
+## Features
+- Add Employee
+- View Employees
+- Update Employee
+- Delete Employee
+
+## Tech Stack
+- Vue.js
+- Axios
+- MockAPI
+- Bootstrap
+
+## Run Project
 npm install
-```
+npm run dev
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Screenshots
+(Add screenshots here)
